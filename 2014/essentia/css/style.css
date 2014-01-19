@@ -523,8 +523,10 @@ header {
 	padding: 15px 40px;
 }
 
-#page-logo-inner {
-	padding: 15px 0px;
+#page-logo-inner  img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
