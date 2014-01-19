@@ -26,7 +26,7 @@
 }
 
 .color.white i {
-	color: #414141;
+	color: #fff;
 }
 
 .color.white h2 {
@@ -88,7 +88,7 @@
 
 
 .color.black {
-	background: #414141;
+	background: #959ca1;
 	color: #fff;
 }
 
@@ -97,12 +97,12 @@
 }
 
 .color.black h2 span {
-	background: #414141;
+	background: #959ca1;
 }
 
 .color.yellow {
-	background: #ffeb41;
-	color: #414141;
+	background: #9fa615;
+	color: #fff;
 }
 
 .color.yellow i {
@@ -110,7 +110,7 @@
 }
 
 .color.yellow h2 span {
-	background: #ffeb41;
+	background: #9fa615;
 }
 
 
@@ -523,6 +523,11 @@ header {
 	padding: 15px 40px;
 }
 
+#page-logo-inner {
+	padding: 15px 0px;
+}
+
+
 #page-title h2 {
 	display: inline-block;
 	font-family: "Droid Sans" !important;
@@ -902,7 +907,7 @@ html[xmlns] .slides {display: block;}
 	-webkit-border-radius: 50em;
 	   -moz-border-radius: 50em;
 			border-radius: 50em;
-	background: #fff;
+	background: #959ca1;
 	padding: 45px 42px;
 }
 
