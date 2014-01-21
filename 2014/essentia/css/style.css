@@ -88,7 +88,8 @@
 
 
 .color.black {
-	background: #959ca1;
+/*	background: #959ca1;*/
+    background: #414141;
 	color: #fff;
 }
 
@@ -97,7 +98,8 @@
 }
 
 .color.black h2 span {
-	background: #959ca1;
+/*	background: #959ca1;*/
+    background: #414141;
 }
 
 .color.yellow {
@@ -1471,6 +1473,14 @@ ol li ol.childlist .comment-des {
 .success-message {display:none;}
 
 .form-spacer {margin-top: 20px;}
+
+#contact_details {
+	padding-top: 35px;
+}
+
+.contact-row {
+	padding-bottom: 30px;
+}
 
 
 /* Pricing Tables
