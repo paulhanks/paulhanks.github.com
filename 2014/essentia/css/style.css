@@ -88,8 +88,8 @@
 
 
 .color.black {
-/*	background: #959ca1;*/
-    background: #414141;
+	background: #959ca1;
+/*    background: #414141;*/
 	color: #fff;
 }
 
@@ -98,7 +98,19 @@
 }
 
 .color.black h2 span {
-/*	background: #959ca1;*/
+    background: #959ca1;
+}
+
+.color.dark_black {
+    background: #414141;
+	color: #fff;
+}
+
+.color.dark_black i {
+	color: #414141;
+}
+
+.color.dark_black h2 span {
     background: #414141;
 }
 
