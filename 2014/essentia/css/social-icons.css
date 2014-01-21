@@ -74,6 +74,10 @@
 .jolicloud {background: url(../img/icons/social/jolicloud.png) no-repeat;}
 .last-fm {background: url(../img/icons/social/last-fm.png) no-repeat;}
 .linkedin {background: url(../img/icons/social/linkedin.png) no-repeat;}
+.linkedin_small {
+	vertical-align: bottom;
+	padding-left: 5px;
+}
 .picasa {background: url(../img/icons/social/picasa.png) no-repeat;}
 .pintrest {background: url(../img/icons/social/pintrest.png) no-repeat;}
 .rss {background: url(../img/icons/social/rss.png) no-repeat;}
@@ -276,7 +280,7 @@
 	background-color: #d21309;
 }
 .social-bookmarks li.linkedin a {
-	background: url(../img/icons/social2/linkedin.png) no-repeat 0 0;
+	background: url(../images/icons/social2/linkedin.png) no-repeat 0 0;
 }
 .social-bookmarks li.linkedin a:hover {
 	background-color: #71b2d0;
