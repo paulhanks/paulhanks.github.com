@@ -129,10 +129,10 @@
 
 
 body {
-	font-family: 'Droid Sans';
+	font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 	background: #fff;
 	color: #888888;
-	font-size: 12px;
+	font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -188,6 +188,10 @@ hr.clean {
 
 a {
 	color: #080808;
+}
+
+p {
+	line-height: 30px;
 }
 			
 .title {
@@ -541,6 +545,7 @@ header {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 40px;
 }
 
 
