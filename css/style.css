@@ -114,6 +114,10 @@
     background: #414141;
 }
 
+.dark_black a {
+	color: #ffffff;
+}
+
 .color.yellow {
 	background: #9fa615;
 	color: #fff;
