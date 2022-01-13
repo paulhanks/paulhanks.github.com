@@ -193,6 +193,10 @@ a {
 p {
 	line-height: 30px;
 }
+
+li {
+    line-height: 30px;
+}
 			
 .title {
 	border-bottom: 1px solid #f6f6f6;
