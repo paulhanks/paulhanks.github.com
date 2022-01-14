@@ -194,6 +194,11 @@ a {
 	color: #080808;
 }
 
+a:hover, a:focus {
+    color: #414141;
+    text-decoration: underline;
+}
+
 p {
 	line-height: 30px;
 }
@@ -286,7 +291,7 @@ li {
 /* Lists
 =================================================================== */
 	ul, ol { margin: 0; }
-	ul { list-style: none outside; }
+	ul { list-style: inside; }
 	ol { list-style: decimal; }
 	ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
 	ul.square { list-style: square outside; }
@@ -946,6 +951,11 @@ html[xmlns] .slides {display: block;}
 
 /* About
 =================================================================== */
+.who {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
 #team .avatar {
 	padding: 20px;
 }
